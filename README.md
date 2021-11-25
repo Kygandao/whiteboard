@@ -10,7 +10,7 @@
   7. [Deployment](#deployment)
   8. [Usage](#usage)
   9. [License](#license)
-  10. [Contribution Guidelines](#contributing-guidelines)
+  10. [Contribution Guidelines](#contribution-guidelines)
   11. [Screenshot](#screenshot)
 
 ## Username
