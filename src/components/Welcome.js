@@ -16,9 +16,9 @@ const Welcome = () => {
                 <Navbar />
             </div>
             <div className='flex flex-col items-center justify-center box-border rounded-lg shadow-2xl w-4/6 h-1/6 mt-6'>
-                <p>Created by: <a className='text-blue-700' href='https://github.com/Kygandao' target='_blank' rel='noreferrer'>Kygan Dao</a></p>
+                <p>Created by: <a className='text-blue-700' href='https://github.com/Kygandao' target='_blank' rel='noopener noreferrer'>Kygan Dao</a></p>
                 <p>as part of the November 2021 MintBean Jr Web Dev Hackathon</p>
-                <a className='text-blue-700' href='https://github.com/Kygandao' target='_blank' rel='noreferrer'>GitHub Repository</a>
+                <a className='text-blue-700' href='https://github.com/Kygandao' target='_blank' rel='noopener noreferrer'>GitHub Repository</a>
             </div>
         </div>
     )
