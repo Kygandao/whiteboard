@@ -14,7 +14,8 @@
   11. [Screenshot](#screenshot)
 
 ## Username
-kygandao
+[kygandao](https://github.com/Kygandao)
+Kygan Dao [LinkedIn](https://www.linkedin.com/in/kygan-dao/)
 
 ## Email
 kygandao23@gmail.com
