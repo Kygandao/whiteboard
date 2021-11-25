@@ -53,6 +53,7 @@ This project is deployed with Netlify
 
 ## Usage
 The user will access the application here: https://whiteboard2kd.netlify.app/
+
 Any use is allowed, however if used in a project of your own, please credit the author.
 
 ## License
